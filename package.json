@@ -1,5 +1,5 @@
 {
-  "name"          : "node-static",
+  "name"          : "node-static-marshallbu",
   "description"   : "simple, compliant file streaming module for node",
   "url"           : "http://github.com/cloudhead/node-static",
   "keywords"      : ["http", "static", "file", "server"],
